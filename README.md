@@ -1,7 +1,7 @@
 # A03
 IS 117 Intro to Website Development first assignment published on GitHub.  
   
-Step-by-step instructions detailing the set-up of Git, Github, and Webstorm:  
+**Step-by-step instructions detailing the set-up of Git, Github, and Webstorm:**  
 1. Download Git from https://git-scm.com/downloads  
 2. Create a Github account at https://github.com/join  
 3. Download & install Webstorm from https://www.jetbrains.com/student/  
