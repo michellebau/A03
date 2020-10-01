@@ -1,5 +1,32 @@
 # A03
-IS 117 Intro to Website Development first assignment published on GitHub.
+IS 117 Intro to Website Development first assignment published on GitHub.  
+  
+Step-by-step instructions detailing the set-up of Git, Github, and Webstorm:  
+1. Download Git from https://git-scm.com/downloads  
+2. Create a Github account at https://github.com/join  
+3. Download & install Webstorm from https://www.jetbrains.com/student/  
+4. Open “Settings” on Webstorm and select Git under the “Version Control” dropdown  
+5. Enter the path to the git.exe
+6. To create a repository from within Webstorm, select VCS from the menubar and select “Import to Version Control”  
+    7. Create and name the repository, then select OK  
+7.  To import a repository from Github, select VCS then “Checkout from version control” and “Git”  
+    8.  Enter the Github repository name as a URL  
+    9.  Enter the local path name (directory) on your computer  
+8. To create a Webstorm file, select File from the menubar and choose “HTML File” for an HTML 5 file or “Stylesheet” for a CSS file  
+9. To add files to Git, the “Add to Git” dialogue will open  
+    10. Choose the files you would like to add and select “Add”  
+10. To commit changes, add a message describing the changes made and hit “Commit”  
+11. To push change to a remote repository, click VCS  
+    12. Select Git then Push  
+    13. Refresh Github on a web browser to see your changes  
+12. To set up Github pages, click Settings on Github in your browser  
+    13. Check the repository name and make the preferred changes  
+14. To choose your Github Page Location, scroll to “Github Pages”  
+    15. Choose master branch  
+    16. Modify the custom domain as you’d like
+17. To check your Github Page(s), copy and paste the github.io URL into a web browser
+
+
 
 **Glossary:**  
 Branch: Is contained within the repository but allows users to work freely without disrupting the "live" version as it does not interfere with the primary or master branch. When users make the changes they want to make, they can merge their branch back into the master branch to publish your changes.  
